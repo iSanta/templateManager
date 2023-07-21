@@ -15,32 +15,6 @@
             "y": 406
         }
     ],
-    "whitelist": [
-        {
-            "name": "Digital Clock",
-            "url": "https://gist.githubusercontent.com/LittleEndu/318ed120e92150b2a45690bd2de672d1/raw/clock.json"
-        },
-        {
-            "name": "Starwars",
-            "url": "https://rentry.org/starwars_place/raw"
-        },
-        {
-            "name": "touhou",
-            "url": "https://rentry.org/touhouplace2023/raw"
-        },
-        {
-            "name": "Foxhole",
-            "url": "https://rentry.co/FoxholeTemplate/raw"
-        }
-    ],
-    "blacklist": [
-        {
-            "name": "old r/osuplace",
-            "url": "https://rentry.org/osuplace2023/raw"
-        },
-        {
-            "name": "old r/osuplace",
-            "url": "https://rentry.co/osuplace2023/raw"
-        }
-    ]
+    "whitelist": [],
+    "blacklist": []
 }
