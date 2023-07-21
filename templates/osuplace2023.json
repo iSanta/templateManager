@@ -4,44 +4,15 @@
     "notifications": "https://broadcaster.osu.place",
     "templates": [
         {
-            "name": "osu! logo; Bad Apple!! text; Border;",
+            "name": "Test",
             "sources": [
-                "https://cdn.discordapp.com/attachments/364902074858602498/1121528323537895485/osu_logo.png"
+                "https://cdn.discordapp.com/attachments/996210307619897436/1131996434716176464/PlaceColors.png"
             ],
             "priorityMaskSources": [
-                "https://cdn.discordapp.com/attachments/958285020433375252/1121581323321094225/osu_mask.png"
+                "https://cdn.discordapp.com/attachments/996210307619897436/1131996914997542993/PlaceMask.png"
             ],
-            "x": 648,
-            "y": 672
-        },
-        {
-            "name": "bad apple placeholder",
-            "sources": [
-                "https://i.imgur.com/hMWmsvu.png"
-            ],
-            "x": 662,
-            "y": 673
-        },
-        {
-            "name": "bad apple video",
-            "sources": [
-                "https://cdn.discordapp.com/attachments/364902074858602498/1109838633478934599/uploaded-colordata-index.png",
-                "https://i.imgur.com/yFRf2Kt.png",
-                "https://files.catbox.moe/ruyu9c.png"
-            ],
-            "priorityMaskSources": [
-                "https://cdn.discordapp.com/attachments/364902074858602498/1109845838743740556/uploaded-priority-mask-final-dither-index.png",
-                "https://i.imgur.com/Hx8fbHm.png",
-                "https://files.catbox.moe/vdh1y2.png"
-            ],
-            "x": -662,
-            "y": -673,
-            "frameWidth": 40,
-            "frameHeight": 30,
-            "frameRate": 43,
-            "frameCount": 6605,
-            "startTime": 1687525200,
-            "looping": false
+            "x": 619,
+            "y": 406
         }
     ],
     "whitelist": [
